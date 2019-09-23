@@ -1,0 +1,2 @@
+Name BodyTemperature SkinCover GivesBirth AquaticCreature AerralCreature HasLegs Hiber-nates
+salamander warm-blooded scales no semi yes yes no

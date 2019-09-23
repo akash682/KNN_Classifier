@@ -1,0 +1,19 @@
+Name BodyTemperature SkinCover GivesBirth AquaticCreature AerralCreature HasLegs Hiber-nates ClassLabel
+human warm-blooded hair yes no no yes no mammal
+python cold-blooded feathers no no no no yes reptile
+salmon cold-blooded fur no yes no no no fish
+whale warm-blooded scales yes yes no no no mammal
+frog cold-blooded scales no seml no yes yes amphibian
+komodo cold-blooded feathers no no no yes no reptile
+dragon
+bat warm-blooded quills yes no yes yes yes mammal
+plgeon warm-blooded scales no no yes yes no bird
+cat warm-blooded none yes no no yes no mammal
+leopard cold-blooded hair yes yes no no no fish
+shark
+Turtle cold-blooded scales no semt no yes no reptile
+penguln warm-blooded scales no seml no yes no bird
+porcuptne warm-blooded hair yes no no yes yes mammal
+eel cold-blooded none no yes no no no fish
+salamander cold-blooded scales no semr no yes yes amphibian
+
